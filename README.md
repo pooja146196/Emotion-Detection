@@ -1,7 +1,7 @@
 # Emotion-Detection
 Project Developed using modules like Tensor-flow,keras,PIL,cv2,matplotlib,cnn,flask 
 
-Here’s a more concise README template:
+
 
 ---
 
