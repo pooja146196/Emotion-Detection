@@ -71,4 +71,9 @@ A Flask-based web app that predicts human emotions from facial images using a de
 - Enhance UI/UX.
 - Add features like liveness detection.
 
+## Interface
+![App Screenshot](images/Prediction_of_emotion.png)
+
+## Prediction 
+- `model acheive 90% accuracy so model can able to predict emtions correctly 90/100`
 ![App Screenshot](images/interface.png)
